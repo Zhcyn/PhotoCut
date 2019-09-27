@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "<Action>"; ObjectID = "40q-y2-rgZ"; */
+"40q-y2-rgZ.normalTitle" = "<活动>";
+
+/* Class = "UILabel"; text = "<Message>"; ObjectID = "Kkv-2u-tPk"; */
+"Kkv-2u-tPk.text" = "<信息>";
+
+/* Class = "UIButton"; normalTitle = "Privacy"; ObjectID = "QJM-MM-NoA"; */
+"QJM-MM-NoA.normalTitle" = "隐私政策";
+
+/* Class = "UILabel"; text = "<Title>"; ObjectID = "iM2-bt-7Wx"; */
+"iM2-bt-7Wx.text" = "<名称>";

@@ -1,0 +1,53 @@
+/* Class = "UINavigationItem"; title = "Format"; ObjectID = "4hi-v5-WxN"; */
+"4hi-v5-WxN.title" = "格式";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "6j3-ei-qs1"; */
+"6j3-ei-qs1.title" = "设置";
+
+/* Class = "UILabel"; text = "HEIF"; ObjectID = "9QB-M4-MZm"; */
+"9QB-M4-MZm.text" = "HEIF";
+
+/* Class = "UILabel"; text = "View Source Code"; ObjectID = "87B-UZ-DeT"; */
+"87B-UZ-DeT.text" = "查看源代码";
+
+/* Class = "UILabel"; text = "JPEG"; ObjectID = "866-Yw-KIX"; */
+"866-Yw-KIX.text" = "JPEG";
+
+/* Class = "UILabel"; text = "Include Metadata"; ObjectID = "bSL-BG-xvu"; */
+"bSL-BG-xvu.text" = "添加元数据";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "gKu-gc-lE0"; */
+"gKu-gc-lE0.title" = "信息";
+
+/* Class = "UILabel"; text = "By Arthur Hammer"; ObjectID = "aGX-4N-Bcc"; */
+"aGX-4N-Bcc.text" = "亚瑟·哈默（Arthur Hammer）♥︎";
+
+/* Class = "UITableViewSection"; headerTitle = "More"; ObjectID = "JfK-t4-yp8"; */
+"JfK-t4-yp8.headerTitle" = "Mehr";
+
+/* Class = "UILabel"; text = "Rate Frame Grabber!"; ObjectID = "LcX-5g-hZa"; */
+"LcX-5g-hZa.text" = "Frame Grabber 评估!";
+
+/* Class = "UILabel"; text = "About Frame Grabber"; ObjectID = "NDM-hJ-3gQ"; */
+"NDM-hJ-3gQ.text" = "关于 Frame Grabber";
+
+/* Class = "UILabel"; text = "Send Feedback"; ObjectID = "odN-ky-B2u"; */
+"odN-ky-B2u.text" = "发送反馈";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "psV-ic-ylP"; */
+"psV-ic-ylP.text" = "隐私政策";
+
+/* Class = "UITableViewSection"; footerTitle = "Metadata includes the video's creation date and GPS location."; ObjectID = "V7S-rg-5I5"; */
+"V7S-rg-5I5.footerTitle" = "元数据包括视频的创建日期和位置。";
+
+/* Class = "UITableViewSection"; headerTitle = "Images"; ObjectID = "V7S-rg-5I5"; */
+"V7S-rg-5I5.headerTitle" = "图片";
+
+/* Class = "UILabel"; text = "Format"; ObjectID = "wkm-2o-aBZ"; */
+"wkm-2o-aBZ.text" = "格式";
+
+/* Class = "UILabel"; text = "Compression Quality"; ObjectID = "PO6-aH-uFG"; */
+"PO6-aH-uFG.text" = "压缩质量";
+
+/* Class = "UILabel"; text = "Frame Grabber lets you export video frames as images. "; ObjectID = "gyD-ww-Z3w"; */
+"gyD-ww-Z3w.text" = "Frame Grabber会从视频中导出帧数图片。";
